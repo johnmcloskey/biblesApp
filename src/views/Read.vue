@@ -12,9 +12,6 @@ export default {
     return {
       kjv: kjv
     };
-  },
-  mounted() {
-    this.kjv.forEach(verse => console.log(verse));
   }
 };
 </script>
