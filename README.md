@@ -1,3 +1,5 @@
+# seekbibles.com 
+# theword.site
 # bibles
 
 ## Project setup
